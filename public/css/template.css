@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.header{
+    padding-left: 60px;
+    padding-right: 60px;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    box-shadow: 0px 8px 10px gray;
+}
+
+.nav{
+    font-size: large;
+}
+
+.actions{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 170px;
+}
+
+.content{
+    margin:45px;
+    min-height: 70vh;
+}
+
+.footer{
+    position: static;
+    bottom:0;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    background-color: lightcyan;
+    padding:5px;
+    box-shadow: 0px -5px 10px gray;
+}

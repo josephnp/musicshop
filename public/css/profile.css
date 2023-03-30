@@ -1,0 +1,36 @@
+p{
+    margin-bottom:0;
+    padding-left: 5px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 5px;
+}
+
+.content-title{
+    display: flex;
+    justify-content: center;
+    margin-bottom:20px;
+}
+
+.content-body{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    width:700px;
+    padding-left:10px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.buttons > a{
+    margin-left:10px;
+}
+
+.buttons > button{
+    margin-left:10px;
+}

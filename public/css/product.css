@@ -1,0 +1,55 @@
+.titletxt{
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: rgb(122, 39, 230);
+    background-color: rgb(122, 39, 230);
+    color: white;
+}
+
+.cart a{
+    border-style: solid;
+    border-radius: 50px;
+    border-color: rgb(24, 168, 240);
+    background-color: rgb(24, 168, 240);
+    color: white;
+    text-decoration: none;
+    margin-right: 80px;
+    padding: 3px;
+    margin-top: 10px;
+}
+
+.cart2 a{
+    color: white;
+}
+
+.sea{
+    margin-left: 400px;
+}
+
+.h{
+    width: 80%;
+    height: 1px;
+    border: 0 none;
+    margin-right: 20px;
+    margin-left: 40px;
+    background-color: black;
+}
+
+.sea2{
+    margin-left: 400px;
+}
+.cart3 a{
+    border-style: solid;
+    border-radius: 50px;
+    border-color: rgb(24, 168, 240);
+    background-color: rgb(24, 168, 240);
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 3px;
+    margin-top: 10px;
+}
+
+

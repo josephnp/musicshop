@@ -1,0 +1,30 @@
+.quote{
+    text-align: center;
+    font-weight: lighter;
+    font-size: x-large;
+}
+
+.lower{
+    margin-top:50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding:10px 10px 10px 15px;
+    width:30%;
+    height:auto;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+#box-title{
+    margin-bottom: 7px;
+}
+
+#box-content > p{
+    margin-bottom:1px;
+}
